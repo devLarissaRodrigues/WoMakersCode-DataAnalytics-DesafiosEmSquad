@@ -2,7 +2,7 @@
 import pandas as pd
 
 titanic = pd.read_csv('dataset/train.csv')
-
+df.info()
 '''
 Variáveis:
 Survival: Sobrevivência (0 = Não, 1 = Sim)
@@ -26,6 +26,7 @@ print(titanic.nunique())
 '''
 
 #Verificação dos valores vazios:
+
 print(titanic.isnull().sum())
 filtroEmbarqued = titanic[titanic.Embarked.isnull()]
 print(filtroEmbarqued)
