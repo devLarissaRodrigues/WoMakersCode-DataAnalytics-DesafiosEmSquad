@@ -1,14 +1,6 @@
 ```markdown
-# Desafio 1: Titanic 🚢 - Bootcamp Data Analytics WomakersCode
-Bem-vindos(as) ao repositório do Desafio 1 do Bootcamp Data Analytics da WomakersCode! Neste projeto, nossa squad Mae C. Jemison uniu forças para analisar os dados do famoso naufrágio do Titanic e responder questões importantes usando ferramentas de análise de dados.
-
-## 💡 Objetivo do Desafio
-Trabalhar em equipe para responder as seguintes perguntas relacionadas aos dados do Titanic:
-
-1. Qual a taxa de sobrevivência geral no navio?
-2. Qual a taxa de sobrevivência por classe (Pclass)? 
-3. Qual o sexo com maior taxa de sobrevivência? 
-4. Baseado nos dados informados, qual a quantidade de adultos e crianças (sobreviventes e não sobreviventes)?
+# Desafios em grupo - Bootcamp Data Analytics WomakersCode
+Bem-vindos(as) ao repositório do Desafio do Bootcamp Data Analytics da WomakersCode! Neste projeto, nossa squad Mae C. Jemison uniu forças para analisar vários desafios e aprender cada vez mais.
 
 ## 🧰 Ferramentas Utilizadas
 - Python: Linguagem principal para análise de dados.  
