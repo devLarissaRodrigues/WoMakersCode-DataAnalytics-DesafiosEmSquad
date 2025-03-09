@@ -1,8 +1,0 @@
-# Substituir valores nulos por 'Desconhecido' para evitar erros
-df['country'] = df['country'].fillna('Desconhecido')
-
-# Contar a frequência de produções por país
-top_paises = df['country'].value_counts().head(5)
-
-# Exibir o resultado
-print(top_paises)
